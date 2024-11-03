@@ -1,0 +1,21 @@
+body {
+	background-image: url("../images/background.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#content {
+ 	margin: 50px auto;
+ 	max-width: 1000px;
+ 	min-height: 100px;
+	overflow: hidden;
+ 	background-color: #fff;
+ 	border-radius: 25px;
+ 	padding: 20px;
+ }
+
+ h1 {
+ 	font-family: "Press Start 2P", sans-serif;
+ 	color: #9445b6;
+ 	text-align:  center;
+ }
